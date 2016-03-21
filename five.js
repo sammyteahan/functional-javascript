@@ -13,7 +13,7 @@ var goodUsers = [
   {id: 5}
 ];
 
-// Note: we'll have access to array passed into testAllValid within return function 'submittedUsers'
+// Note: we'll have access to the array passed into testAllValid within return function 'submittedUsers'
 // example call: var testAllValid = checkUsersValid(goodUsers);
 // testAllValid([{id: 1}, {id: 2}]);
 
